@@ -24,6 +24,8 @@ When an image is uploaded to an S3 bucket, a Lambda function processes the event
 ![Screenshot (10)](https://github.com/user-attachments/assets/62d56031-d605-4434-8440-6b25594ef049)
 
 # Step 7: Write Lambda Function Code
+![Screenshot (11)](https://github.com/user-attachments/assets/73cda1ab-e6e9-446d-b6de-5eb0f414af58)
+
 # Expected Outcome:
 # you will get notify whenever image is uploaded.and from following these steps, you will have created a simple event-driven application on AWS that demonstrates the core principles of EDA.
 
